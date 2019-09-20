@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #Renata =O
 Clase de git y github en el ITAM
+=======
+#Renata :)
+Clase de git y github en el ITAM
+>>>>>>> 982d8146b57969ef8bb3ce06417f7d3dbddd911e
